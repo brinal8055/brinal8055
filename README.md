@@ -18,7 +18,6 @@ I am Brinal Savsaviya, Computer Science Undergraduate from Indian Institute of T
 > 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/brinal-savsaviya-b851a5193/)
 - [Gmail](mailto:brinalsavsaviya@gmail.com)
-- [Facebook](https://www.facebook.com/profile.php?id=100009070792245/)
 
 <!--
 - ⚡ Fun fact: ... 
