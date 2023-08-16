@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 I am Brinal Savsaviya, Computer Science Undergraduate from Indian Institute of Technology, Dharwad.
 
-- 🌱 I’m currently learning AI-ML, Web Development.
-- 🤔 I’m looking for help with Startups.
+- 🌱 I’m currently learning technology and working with psychology.
+- 🤔 I’m looking for building Startups.
 - 👯 I’m looking to collaborate on Open Source Projects
 <!--
 - 🤔 I’m looking for help with ...
@@ -17,7 +17,7 @@ I am Brinal Savsaviya, Computer Science Undergraduate from Indian Institute of T
 
 > 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/brinal-savsaviya-b851a5193/)
-- [Gmail](mailto:brinalsavsaviya@gmail.com)
+- [Gmail](mailto:savsaviyabrinal@gmail.com)
 
 <!--
 - ⚡ Fun fact: ... 
